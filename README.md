@@ -6,7 +6,7 @@ Intern ID : CT12DS2194
 
 Domain  : Python Programming
 
-Duration: August to September 2024
+Duration: August to october 2024
 
 Mentor : 
 
