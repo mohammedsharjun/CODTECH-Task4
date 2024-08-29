@@ -1,8 +1,13 @@
-Name      : M Mohammed Sharjun
+Name : M Mohammed Sharjun
+
 Company: CODTECH IT SOLUTIONS
+
 Intern ID : CT12DS2194
+
 Domain  : Python Programming
+
 Duration: August to September 2024
+
 Mentor : Muzammil Ahmed
 
 ### Project Overview: Library Management System Using Python
