@@ -46,4 +46,4 @@ The successful implementation of this project will result in a functional Librar
 
 For any inquiries or contributions, feel free to reach out:
 
-[GitHub Profile](https://github.com/MSivananthan)
+[GitHub Profile](https://github.com/mohammedsharjun)
