@@ -8,7 +8,7 @@ Domain  : Python Programming
 
 Duration: August to September 2024
 
-Mentor : Muzammil Ahmed
+Mentor : 
 
 ### Project Overview: Library Management System Using Python
 
